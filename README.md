@@ -5,8 +5,7 @@
 Script/Utility/Application to debloat Windows 10,11, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more...
 
 ## Donate a cup of coffee
-![QR-GPAY](https://github.com/jejo205713/Debloat_Script/blob/main/gpay.jpeg)
-
+![QR-GPAY](https://github.com/jejo205713/Debloat_Script/blob/main/gpay.jpeg){ width=150px }
 
 ## Disclaimer
 
